@@ -15,7 +15,7 @@ temperature at least. Other than that, this system can also be used in different
 
 <hr>
 
-### Project platform: Arduino
-### Equipment: Arduino Uno R3 , DS18B20 temperature sensor , Colour (RGB)LED , Jumper wires, Resistors ( 220ohm, 1k ), Buzzer
-### Programming Language: C/C++
+  - Project platform: Arduino
+  - Equipment: Arduino Uno R3 , DS18B20 temperature sensor , Colour (RGB)LED , Jumper wires, Resistors ( 220ohm, 1k ), Buzzer
+  - Programming Language: C/C++
 
